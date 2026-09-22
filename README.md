@@ -2,6 +2,8 @@
 
 > A teleport tool that only whitelisted players can hold - managed by the server operators.
 
+[![Download](https://img.shields.io/badge/Download-latest%20build-e94560?style=for-the-badge&logo=github&logoColor=white)](../../releases/latest)
+
 Operators decide who may use the **TP Tool** with a whitelist menu. Whitelisted players get the tool automatically (and keep it), everybody else loses it the moment it appears in their inventory. Right-click the tool, pick a player, and after a 5 second countdown you are teleported to that player's current position.
 
 ## What it does
@@ -30,6 +32,8 @@ Every pack of mine carries a small easter egg: craft the **Dev Book** with **9 l
 ## Notes
 
 - Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.
+
+![preview](tp-tool.png)
 
 ---
 
