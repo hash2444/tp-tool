@@ -4,11 +4,11 @@ Everything you need to get **TP Tool** running, step by step. If something goes 
 
 ## What you need
 
-- Minecraft **Bedrock Edition** 1.20.50 or newer (Windows, phone, console or a Bedrock server)
+- Minecraft **Bedrock Edition** 1.21.110 or newer (Windows, phone, console or a Bedrock server)
 
 ## Install and start
 
-1. Download **`TP-Tool-v1.0.6.mcaddon`** from the [Releases page](../../releases) - or directly from this repository.
+1. Download **`TP-Tool-v1.0.7.mcaddon`** from the [Releases page](../../releases) - or directly from this repository.
 2. Open the file (double-click on Windows, or tap it on a phone/tablet). Minecraft starts and shows *Import started* / *Import successful*.
 3. Create a new world or edit an existing one and open **Add-Ons**.
 4. Under **Behavior Packs** activate this add-on's pack, then under **Resource Packs** activate the matching resource pack.
